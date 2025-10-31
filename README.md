@@ -1,6 +1,6 @@
 # INSY 6500 - Modern Tools for Data Analysis
-**Student**: Your Name
-**Auburn ID**: Your Username
+**Student**: Trace Warriner
+**Auburn ID**: 904511182
 **Semester**: Fall 2025
 ## About This Repository
 This repository contains my coursework for INSY 6500 - Modern Tools for Data Analysis and
